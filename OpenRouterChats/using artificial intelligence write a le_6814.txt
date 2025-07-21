@@ -1,0 +1,20 @@
+User: using artificial intelligence write a letter to my boss about a sick leave
+
+Assistant:  Subject: Request for Sick Leave
+
+Dear [Boss's Name],
+
+I hope this message finds you well. I am writing to inform you of an unexpected health issue that has arisen, and as a result, I will unfortunately be unable to fulfill my responsibilities at work during the coming days.
+
+I have developed a sudden illness and my doctor has advised me to take some time off to recover fully. I have attached a copy of the doctor's note for your reference. I deeply regret any inconvenience this may cause, and I am committed to making arrangements to ensure a smooth transition during my absence.
+
+During my leave, which is scheduled from [Start Date] to [End Date], I will make myself available for any urgent matters via email or phone, should the need arise. I am also happy to delegate tasks to a team member or facilitate smooth handover to another colleague.
+
+I appreciate your understanding and support during this time. I will keep you updated on my progress and plan to return to work as soon as I am medically able.
+
+Thank you for your understanding, and I look forward to resuming my responsibilities as soon as possible.
+
+Warm regards,
+
+[Your Name]
+[Your Position]

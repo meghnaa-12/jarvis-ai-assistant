@@ -1,0 +1,58 @@
+User: using artificial intelligence write a python code for a star pattern
+
+Assistant:  Sure, here is a simple Python code to print a star pattern using loops. This code will print a right-angled triangle of 5 stars. You can easily adjust the number of rows by changing the value of the `n` variable.
+
+```python
+n = 5
+
+for i in range(n):
+    for j in range(i+1):
+        print('*', end=' ')
+    print()
+```
+
+This code first sets the number of rows to print. Then, it uses two nested for loops. The outer loop iterates over each row (from 0 to n-1). The inner loop iterates over each column in the current row (from 0 to i, because the number of stars in a row decreases as the row number increases). The `end=' '` argument in the print function is used to specify that a space should be printed after each star instead of a newline characters.
+
+When you run this code, you will see a right-angled triangle of stars:
+
+```
+*
+**
+***
+****
+*****
+```
+
+If you want to print a diamond shaped pattern, you can modify the code like this:
+
+```python
+n = 5
+
+for i in range(n):
+    for j in range(n-i-1):
+        print(end=' ')
+    for k in range(2*i+1):
+        print('*', end=' ')
+    print()
+
+for i in range(n-2, -1, -1):
+    for j in range(n-i-1):
+        print(end=' ')
+    for k in range(2*i+1):
+        print('*', end=' ')
+    print()
+```
+
+This code will print a diamond shaped pattern of stars:
+
+```
+    *
+   ***
+  *****
+ *******
+*********
+  *******
+  *****
+  ***
+   *
+```

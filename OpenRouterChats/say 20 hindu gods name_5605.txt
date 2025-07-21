@@ -1,0 +1,24 @@
+User: say 20 hindu gods name
+
+Assistant:  Here are 20 popular Hindu deities:
+
+1. Brahma: The creator of the universe
+2. Vishnu: The preserver of the universe
+3. Shiva: The destroyer of the universe
+4. Indra: The god of thunder and rain
+5. Agni: The god of fire
+6. Vayu: The god of wind
+7. Surya: The sun god
+8. Chandra: The moon god
+9. Ganesha: The elephant-headed god, the remover of obstacles
+10. Kartikeya (Subramanian): The god of war
+11. Saraswati: The goddess of knowledge, music, and arts
+12. Lakshmi: The goddess of wealth and prosperity
+13. Durga: The goddess of strength and power
+14. Parvati: The wife of Shiva
+15. Skanda: The son of Shiva and Parvati
+16. Hanuman: The monkey god and the devotee of Rama
+17. Krishna: An avatar of Vishnu, known for his teachings in the Bhagavad Gita
+18. Rama: The seventh avatar of Vishnu, known for his story in the epic Ramayana
+19. Sita: The wife of Rama and an avatar of Lakshmi
+20. Vedanta/Veda Vyasa: The author of the Mahabharata and the Brahma Sutras. He is sometimes counted as a Hindu god in some traditions.

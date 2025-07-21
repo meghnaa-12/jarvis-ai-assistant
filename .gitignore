@@ -1,0 +1,20 @@
+# .gitignore
+
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtualenv
+.venv/
+env/
+venv/
+
+# API keys
+config.py
+*.env
+*.key
+
+# OS/editor files
+.vscode/
+.idea/
+.DS_Store
